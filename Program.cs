@@ -8,6 +8,7 @@ namespace Second
 		{
 			Console.WriteLine("Hello World!");
 			var c = "sararara2222";
+			var g = "second edited!";
 		}
 	}
 }
