@@ -7,6 +7,7 @@ namespace Second
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			var c = "sararara2222";
 		}
 	}
 }

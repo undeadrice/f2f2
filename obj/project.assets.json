@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brucki-2\\source\\repos\\Second\\Second.csproj",
+      "projectUniqueName": "C:\\Users\\brucki-2\\source\\repos\\Main\\f2f2\\Second.csproj",
       "projectName": "Second",
-      "projectPath": "C:\\Users\\brucki-2\\source\\repos\\Second\\Second.csproj",
+      "projectPath": "C:\\Users\\brucki-2\\source\\repos\\Main\\f2f2\\Second.csproj",
       "packagesPath": "C:\\Users\\brucki-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brucki-2\\source\\repos\\Second\\obj\\",
+      "outputPath": "C:\\Users\\brucki-2\\source\\repos\\Main\\f2f2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
